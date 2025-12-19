@@ -14,15 +14,17 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://panaversity.github.io',
+  url: 'https://ItsKumailHere.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/hackathon-last-try/',
+  baseUrl: '/Humanoid-Robotics-Frontend',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'panaversity', // Usually your GitHub org/user name.
-  projectName: 'hackathon-last-try', // Usually your repo name.
+  organizationName: 'ItsKumailHere', // Usually your GitHub org/user name.
+  projectName: 'Humanoid-Robotics-Frontend', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
 
