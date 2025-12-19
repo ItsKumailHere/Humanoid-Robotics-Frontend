@@ -4,7 +4,7 @@ This is a Docusaurus-based textbook for Physical AI and Humanoid Robotics with i
 
 ## Prerequisites
 
-- Node.js 18+
+- Node.js 20+
 - Python 3.11+
 - Docker (for running the RAG backend)
 
